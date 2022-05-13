@@ -1,6 +1,5 @@
 # Option-Pricing
 Option Pricing Package to calculate different options with different methods in Python. 
-Download zip file to install package.
 
 ## Options
 1. European Call/Put (by black scholes or numerical methods)
